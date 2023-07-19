@@ -98,19 +98,19 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Twitter',
+			name: 'twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'Discord',
+			name: 'bot',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		}
@@ -161,11 +161,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Music',
+					name: 'Spotify',
 					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'twitter',
+					name: 'Twitter',
 					link: 'https://twitter.com/',
 				},
 				{
